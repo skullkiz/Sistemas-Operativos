@@ -1,0 +1,5 @@
+#Práctica de Sistemas Operativos. César Cortés 
+
+#﻿!/bin/bash
+ CAD="Hola, soy César."
+ echo $CAD
